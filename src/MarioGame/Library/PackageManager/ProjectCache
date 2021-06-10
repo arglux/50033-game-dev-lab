@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637586284292573586
-    m_Hash: 1296133845
+      ticks: 637589259302720123
+    m_Hash: 3745965651
   m_LockFileStatus:
     m_FilePath: C:/Users/Calvin Yusnoveri/Desktop/SUTD Capstone T2/50.033/50033-game-dev-lab/src/MarioGame/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637586284292832927
-    m_Hash: 4102202226
+      ticks: 637589259302720123
+    m_Hash: 2717098294
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
