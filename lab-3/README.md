@@ -1,3 +1,3 @@
-# Lab 2
+# Lab 3
 
-![Lab 2](./lab-2.gif)
+![Lab 3](./lab-3.gif)
