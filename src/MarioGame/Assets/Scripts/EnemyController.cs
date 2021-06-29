@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class EnemyController : MonoBehaviour
 {
@@ -9,7 +10,8 @@ public class EnemyController : MonoBehaviour
 
     public GameConstants gameConstants;
     private float originalX;
-    private  int moveRight;
+    private int moveRight;
+    private bool dancing = false;
 
     private Vector2 velocity;
     private Rigidbody2D enemyBody;
@@ -39,6 +41,11 @@ public class EnemyController : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        if (dancing) 
+        {
+            transform.Rotate(0, 90 * Time.deltaTime, 0);
+        }
+        
         if (Mathf.Abs(enemyBody.position.x - originalX) < 2.0f)
         {
             MoveGomba();
@@ -96,8 +103,8 @@ public class EnemyController : MonoBehaviour
 
     void  EnemyRejoice()
     {
-        Debug.Log("Enemy killed Mario");
-        // do whatever you want here, animate etc
-        // ...
+        Debug.Log("Enemy killed Mario!");
+        moveRight = 0;
+        dancing = true;
     }
 }

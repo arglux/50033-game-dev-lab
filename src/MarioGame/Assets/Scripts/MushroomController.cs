@@ -63,8 +63,7 @@ public class MushroomController : MonoBehaviour
     void  OnBecameInvisible()
     {
         if (collected) {
-            Debug.Log("collected.");
-            Destroy(gameObject, mushroomAudio.clip.length);
+            return;
         } else {
             Destroy(gameObject);
         }

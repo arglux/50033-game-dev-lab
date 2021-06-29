@@ -13,6 +13,7 @@ public class PlayerController : MonoBehaviour
     public float maxSpeed = 10;
 
     private Rigidbody2D marioBody;
+    private BoxCollider2D marioCollider;
     private SpriteRenderer marioSprite;
     private Animator marioAnimator;
     private AudioSource marioAudioSource;
@@ -29,7 +30,9 @@ public class PlayerController : MonoBehaviour
     {
         // Set to be 30 FPS
 	    Application.targetFrameRate =  30;
+        
 	    marioBody = GetComponent<Rigidbody2D>();
+        marioCollider = GetComponent<BoxCollider2D>();
         marioSprite = GetComponent<SpriteRenderer>();
         marioAnimator = GetComponent<Animator>();
         marioAudioSource = GetComponent<AudioSource>();
@@ -85,9 +88,10 @@ public class PlayerController : MonoBehaviour
 
     void  PlayerDiesSequence() {
         // Mario dies
-        Debug.Log("Mario dies");
-        // do whatever you want here, animate etc
-        // ...
+        Debug.Log("Mario dies...");
+        marioAnimator.SetBool("onDeath", true);
+        marioCollider.enabled = false;
+        marioBody.AddForce(Vector2.up * 30, ForceMode2D.Impulse);
     }
 
     // void OnTriggerEnter2D(Collider2D other)
@@ -136,6 +140,14 @@ public class PlayerController : MonoBehaviour
 
         }
 
+        if (Input.GetKeyDown("z")) {
+            CentralManager.centralManagerInstance.consumePowerup(KeyCode.Z, this.gameObject);
+        }
+
+        if (Input.GetKeyDown("x")) {
+            CentralManager.centralManagerInstance.consumePowerup(KeyCode.X, this.gameObject);
+        }
+
         // if (!onGroundState && countScoreState) 
         // {
         //     if(Mathf.Abs(transform.position.x - enemyLocation.position.x) < 0.8f)
@@ -146,6 +158,6 @@ public class PlayerController : MonoBehaviour
         //     }
         // }
 
-
     }
+
 }

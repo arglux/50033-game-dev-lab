@@ -218,6 +218,21 @@ AudioMixerEffectController:
   m_SendTarget: {fileID: 0}
   m_EnableWetMix: 0
   m_Bypass: 0
+--- !u!245 &-1633163401806929760
+AudioMixerSnapshotController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Game Ends
+  m_AudioMixer: {fileID: 24100000}
+  m_SnapshotID: 27aa3e53b2f028740bf0f4b56de02009
+  m_FloatValues:
+    274f14207ad1ea04d82fb8baf9eab9d6: -11.944499
+    814f64129b246dc408433d5815a2610e: 8.614072
+    2b1c80674677bf34093aad1a2c37831e: 6.7923827
+    3980d11802946db4d8f211f0a5391b4e: -2.5738313
+  m_TransitionOverrides: {}
 --- !u!241 &24100000
 AudioMixerController:
   m_ObjectHideFlags: 0
@@ -230,6 +245,7 @@ AudioMixerController:
   m_Snapshots:
   - {fileID: 24500006}
   - {fileID: 2989756856416898508}
+  - {fileID: 162330847686178504}
   m_StartSnapshot: {fileID: 24500006}
   m_SuspendThreshold: -80
   m_EnableSuspend: 1
@@ -299,6 +315,22 @@ AudioMixerSnapshotController:
     814f64129b246dc408433d5815a2610e: 8.614072
     2b1c80674677bf34093aad1a2c37831e: 6.7923827
     3980d11802946db4d8f211f0a5391b4e: -2.5738313
+  m_TransitionOverrides: {}
+--- !u!245 &162330847686178504
+AudioMixerSnapshotController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Game Over
+  m_AudioMixer: {fileID: 24100000}
+  m_SnapshotID: 1d9c5baf792deb84eacbf7fb3973a147
+  m_FloatValues:
+    274f14207ad1ea04d82fb8baf9eab9d6: -80
+    814f64129b246dc408433d5815a2610e: -80
+    87ea25e30bcb9964296dfbed71ec87fe: -80
+    2b1c80674677bf34093aad1a2c37831e: 0.58972603
+    3980d11802946db4d8f211f0a5391b4e: -80
   m_TransitionOverrides: {}
 --- !u!244 &1119485408264974283
 AudioMixerEffectController:
@@ -380,7 +412,7 @@ AudioMixerGroupController:
   - {fileID: -1937557345594714611}
   - {fileID: -8726542803033629825}
   m_UserColorIndex: 0
-  m_Mute: 1
+  m_Mute: 0
   m_Solo: 0
   m_BypassEffects: 0
 --- !u!244 &7931687279899372036

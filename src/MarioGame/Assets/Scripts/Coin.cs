@@ -19,7 +19,7 @@ public class Coin : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+        transform.Rotate(0, 90 * Time.deltaTime, 0);
     }
 
     void  OnTriggerEnter2D(Collider2D col)

@@ -12,13 +12,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e9bc501fd83201e4ebcb00c8fc08ba4d, type: 3}
   m_Name: gameConstants
   m_EditorClassIdentifier: 
-  playerSpeed: 30
+  playerSpeed: 35
   playerMaxSpeed: 60
   playerJumpSpeed: 25
   currentScore: 0
   currentPlayerHealth: 0
   maxOffset: 5
   enemyPatroltime: 2
+  groundSurface: -4
   consumeTimeStep: 10
   consumeLargestScale: 4
   breakTimeStep: 30

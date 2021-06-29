@@ -22,7 +22,7 @@ public class MenuController : MonoBehaviour
                 eachChild.name != "PowerUps" 
             )
             {
-                Debug.Log("Child found. Name: " + eachChild.name);
+                // Debug.Log("Child found. Name: " + eachChild.name);
                 // disable all ui's children except score
                 eachChild.gameObject.SetActive(false);
                 Time.timeScale = 1.0f;
