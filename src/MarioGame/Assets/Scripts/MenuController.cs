@@ -18,7 +18,9 @@ public class MenuController : MonoBehaviour
     {
         foreach (Transform eachChild in transform)
         {
-            if (eachChild.name != "Score")
+            if (eachChild.name != "Score" &&
+                eachChild.name != "PowerUps" 
+            )
             {
                 Debug.Log("Child found. Name: " + eachChild.name);
                 // disable all ui's children except score

@@ -10,7 +10,7 @@ public class PlayerController : MonoBehaviour
     
     public float speed;
     public float upSpeed;
-    public float maxspeed = 10;
+    public float maxSpeed = 10;
 
     private Rigidbody2D marioBody;
     private SpriteRenderer marioSprite;
@@ -18,9 +18,9 @@ public class PlayerController : MonoBehaviour
     private AudioSource marioAudioSource;
 
     public Transform enemyLocation;
-    public Text scoreText;
-    private int score = 0;
-    private bool countScoreState = false;
+    // public Text scoreText;
+    // private int score = 0;
+    // private bool countScoreState = false;
 
     private bool onGroundState = true;
     private bool faceRightState = true;
@@ -33,6 +33,8 @@ public class PlayerController : MonoBehaviour
         marioSprite = GetComponent<SpriteRenderer>();
         marioAnimator = GetComponent<Animator>();
         marioAudioSource = GetComponent<AudioSource>();
+
+        GameManager.OnPlayerDeath += PlayerDiesSequence;
     }
 
     void FixedUpdate()
@@ -49,7 +51,7 @@ public class PlayerController : MonoBehaviour
       if (Mathf.Abs(moveHorizontal) > 0)
       {
           Vector2 movement = new Vector2(moveHorizontal, 0);
-          if (marioBody.velocity.magnitude < maxspeed) 
+          if (marioBody.velocity.magnitude < maxSpeed) 
           {
               marioBody.AddForce(movement * speed);
           }
@@ -60,7 +62,7 @@ public class PlayerController : MonoBehaviour
           marioBody.AddForce(Vector2.up * upSpeed, ForceMode2D.Impulse);
           onGroundState = false;
           marioAnimator.SetBool("onGround", onGroundState);
-          countScoreState = true;
+          // countScoreState = true;
       }
     }
 
@@ -70,8 +72,8 @@ public class PlayerController : MonoBehaviour
         {
             onGroundState = true;
             marioAnimator.SetBool("onGround", onGroundState);
-            countScoreState = false;
-            scoreText.text = "SCORE: " + score.ToString();
+            // countScoreState = false;
+            // scoreText.text = "SCORE: " + score.ToString();
         }
 
         if (col.gameObject.CompareTag("Obstacles")) // && Mathf.Abs(marioBody.velocity.y) < 0.01f
@@ -81,14 +83,21 @@ public class PlayerController : MonoBehaviour
         }
     }
 
-    void OnTriggerEnter2D(Collider2D other)
-    {
-        if (other.gameObject.CompareTag("Enemy"))
-        {
-            Debug.Log("You collided with a Goomba!");
-            SceneManager.LoadScene("SampleScene");
-        }
+    void  PlayerDiesSequence() {
+        // Mario dies
+        Debug.Log("Mario dies");
+        // do whatever you want here, animate etc
+        // ...
     }
+
+    // void OnTriggerEnter2D(Collider2D other)
+    // {
+    //     if (other.gameObject.CompareTag("Enemy"))
+    //     {
+    //         Debug.Log("You collided with a Goomba!");
+    //         SceneManager.LoadScene("SampleScene");
+    //     }
+    // }
 
     void PlayJumpSound() 
     {
@@ -127,15 +136,15 @@ public class PlayerController : MonoBehaviour
 
         }
 
-        if (!onGroundState && countScoreState) 
-        {
-            if(Mathf.Abs(transform.position.x - enemyLocation.position.x) < 0.8f)
-            {
-                countScoreState = false;
-                score++;
-                Debug.Log(score);
-            }
-        }
+        // if (!onGroundState && countScoreState) 
+        // {
+        //     if(Mathf.Abs(transform.position.x - enemyLocation.position.x) < 0.8f)
+        //     {
+        //         countScoreState = false;
+        //         score++;
+        //         Debug.Log(score);
+        //     }
+        // }
 
 
     }

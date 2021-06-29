@@ -9,12 +9,13 @@ public class QuestionBoxController : MonoBehaviour
     public  GameObject consummablePrefab; // the spawned mushroom prefab
     public  SpriteRenderer spriteRenderer;
     public  Sprite usedQuestionBox; // the sprite that indicates empty box instead of a question mark
+    private AudioSource qBoxAudio;
     private bool hit =  false;
 
     // Start is called before the first frame update
     void Start()
     {
-        
+        qBoxAudio = GetComponent<AudioSource>();
     }
 
     // Update is called once per frame
@@ -28,6 +29,7 @@ public class QuestionBoxController : MonoBehaviour
         if (col.gameObject.CompareTag("Player") && !hit)
         {
 		    hit  =  true;
+            qBoxAudio.PlayOneShot(qBoxAudio.clip);
             // Debug.Log("hit, spawning mushroom");
 		    // spawn the mushroom prefab slightly above the box
 		    Instantiate(consummablePrefab, new Vector3(this.transform.
