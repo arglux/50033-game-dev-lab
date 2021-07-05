@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: cb3590159107eca49b89149291b77c7b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - marioJumpSpeed: {fileID: 11400000, guid: 9ad1588a3964b094b8ff35185dd7a315, type: 2}
+  - marioMaxSpeed: {fileID: 11400000, guid: 8304e3604486a4f47bd4f9eb1e5d3ee9, type: 2}
+  - powerUpInventory: {fileID: 11400000, guid: 0339215aaa11a8540b262b06414a3392, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

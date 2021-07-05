@@ -1,0 +1,2432 @@
+Using pre-set license
+Built from '2021.1/staging' branch; Version is '2021.1.7f1 (d91830b65d9b) revision 14227504'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 18363.1556; Version 1909; 64bit' Language: 'en' Physical Memory: 8075 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity 2021.1.7f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/Calvin Yusnoveri/Desktop/SUTD Capstone T2/50.033/50033-game-dev-lab/src/MarioGame
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+60435
+Successfully changed project path to: C:/Users/Calvin Yusnoveri/Desktop/SUTD Capstone T2/50.033/50033-game-dev-lab/src/MarioGame
+C:/Users/Calvin Yusnoveri/Desktop/SUTD Capstone T2/50.033/50033-game-dev-lab/src/MarioGame
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 126.50 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2021.1.7f1 (d91830b65d9b)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity 2021.1.7f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/Calvin Yusnoveri/Desktop/SUTD Capstone T2/50.033/50033-game-dev-lab/src/MarioGame/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1060 (ID=0x1c20)
+    Vendor:   NVIDIA
+    VRAM:     6052 MB
+    Driver:   27.21.14.6647
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity 2021.1.7f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity 2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity 2021.1.7f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56748
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity 2021.1.7f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002384 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 121.30 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.575 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.004141 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Calvin Yusnoveri\Desktop\SUTD Capstone T2\50.033\50033-game-dev-lab\src\MarioGame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Calvin Yusnoveri\Desktop\SUTD Capstone T2\50.033\50033-game-dev-lab\src\MarioGame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 126.07 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.462 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.07 seconds
+Refreshing native plugins compatible for Editor in 0.84 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4569 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 179.5 MB.
+System memory in use after: 179.6 MB.
+
+Unloading 28 unused Assets to reduce memory usage. Loaded Objects now: 5026.
+Total: 3.495200 ms (FindLiveObjects: 0.434600 ms CreateObjectMapping: 0.205200 ms MarkObjects: 2.678300 ms  DeleteObjects: 0.176000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004736 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Calvin Yusnoveri\Desktop\SUTD Capstone T2\50.033\50033-game-dev-lab\src\MarioGame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Calvin Yusnoveri\Desktop\SUTD Capstone T2\50.033\50033-game-dev-lab\src\MarioGame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.03 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.858 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 1.01 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4455 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 172.2 MB.
+System memory in use after: 172.3 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 5030.
+Total: 3.655600 ms (FindLiveObjects: 0.404300 ms CreateObjectMapping: 0.330700 ms MarkObjects: 2.762500 ms  DeleteObjects: 0.156300 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004553 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Calvin Yusnoveri\Desktop\SUTD Capstone T2\50.033\50033-game-dev-lab\src\MarioGame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Calvin Yusnoveri\Desktop\SUTD Capstone T2\50.033\50033-game-dev-lab\src\MarioGame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.04 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.323 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.91 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4455 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 172.3 MB.
+System memory in use after: 172.4 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 5034.
+Total: 7.669800 ms (FindLiveObjects: 0.713800 ms CreateObjectMapping: 0.411700 ms MarkObjects: 6.340800 ms  DeleteObjects: 0.201800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004405 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Calvin Yusnoveri\Desktop\SUTD Capstone T2\50.033\50033-game-dev-lab\src\MarioGame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Calvin Yusnoveri\Desktop\SUTD Capstone T2\50.033\50033-game-dev-lab\src\MarioGame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.78 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.409 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.91 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4455 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 172.3 MB.
+System memory in use after: 172.4 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 5038.
+Total: 8.165600 ms (FindLiveObjects: 0.710400 ms CreateObjectMapping: 0.939800 ms MarkObjects: 6.367800 ms  DeleteObjects: 0.146100 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/ScriptableObjects/gameConstants.asset
+  artifactKey: Guid(eecdf7d51379743489d2777c4066836e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjects/gameConstants.asset using Guid(eecdf7d51379743489d2777c4066836e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ac34220d79e0f143dd3b64eecc4c2a55') in 0.093141 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 6.039935 seconds.
+  path: Assets/ScriptableObjects/gameConstants.asset
+  artifactKey: Guid(eecdf7d51379743489d2777c4066836e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjects/gameConstants.asset using Guid(eecdf7d51379743489d2777c4066836e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f87422761e76a9e2c95b39f4da47d152') in 0.005156 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004619 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Calvin Yusnoveri\Desktop\SUTD Capstone T2\50.033\50033-game-dev-lab\src\MarioGame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Calvin Yusnoveri\Desktop\SUTD Capstone T2\50.033\50033-game-dev-lab\src\MarioGame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.93 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.200 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.90 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4455 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 172.4 MB.
+System memory in use after: 172.5 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 5042.
+Total: 6.846900 ms (FindLiveObjects: 0.610200 ms CreateObjectMapping: 0.546400 ms MarkObjects: 5.483700 ms  DeleteObjects: 0.205000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004424 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Calvin Yusnoveri\Desktop\SUTD Capstone T2\50.033\50033-game-dev-lab\src\MarioGame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Calvin Yusnoveri\Desktop\SUTD Capstone T2\50.033\50033-game-dev-lab\src\MarioGame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.86 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.223 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.88 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4455 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 172.4 MB.
+System memory in use after: 172.5 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 5046.
+Total: 3.898600 ms (FindLiveObjects: 0.480800 ms CreateObjectMapping: 0.288100 ms MarkObjects: 3.012600 ms  DeleteObjects: 0.115700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004262 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Calvin Yusnoveri\Desktop\SUTD Capstone T2\50.033\50033-game-dev-lab\src\MarioGame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Calvin Yusnoveri\Desktop\SUTD Capstone T2\50.033\50033-game-dev-lab\src\MarioGame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.93 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.198 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.98 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4455 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 172.4 MB.
+System memory in use after: 172.5 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 5050.
+Total: 3.585300 ms (FindLiveObjects: 0.391700 ms CreateObjectMapping: 0.264900 ms MarkObjects: 2.798100 ms  DeleteObjects: 0.129500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005017 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Calvin Yusnoveri\Desktop\SUTD Capstone T2\50.033\50033-game-dev-lab\src\MarioGame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Calvin Yusnoveri\Desktop\SUTD Capstone T2\50.033\50033-game-dev-lab\src\MarioGame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.82 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.220 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.95 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4455 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 172.4 MB.
+System memory in use after: 172.5 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 5054.
+Total: 3.733800 ms (FindLiveObjects: 0.380400 ms CreateObjectMapping: 0.222500 ms MarkObjects: 2.999100 ms  DeleteObjects: 0.130500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004518 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Calvin Yusnoveri\Desktop\SUTD Capstone T2\50.033\50033-game-dev-lab\src\MarioGame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Calvin Yusnoveri\Desktop\SUTD Capstone T2\50.033\50033-game-dev-lab\src\MarioGame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.83 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.178 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.88 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4455 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 172.4 MB.
+System memory in use after: 172.5 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 5058.
+Total: 4.589000 ms (FindLiveObjects: 0.809400 ms CreateObjectMapping: 0.581500 ms MarkObjects: 3.066900 ms  DeleteObjects: 0.129600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004807 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Calvin Yusnoveri\Desktop\SUTD Capstone T2\50.033\50033-game-dev-lab\src\MarioGame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Calvin Yusnoveri\Desktop\SUTD Capstone T2\50.033\50033-game-dev-lab\src\MarioGame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.92 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.178 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.94 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4455 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 172.4 MB.
+System memory in use after: 172.5 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 5062.
+Total: 4.978000 ms (FindLiveObjects: 0.610200 ms CreateObjectMapping: 0.475100 ms MarkObjects: 3.747400 ms  DeleteObjects: 0.144200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004428 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Calvin Yusnoveri\Desktop\SUTD Capstone T2\50.033\50033-game-dev-lab\src\MarioGame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Calvin Yusnoveri\Desktop\SUTD Capstone T2\50.033\50033-game-dev-lab\src\MarioGame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.92 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.255 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 1.12 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4455 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 172.4 MB.
+System memory in use after: 172.5 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 5066.
+Total: 5.110200 ms (FindLiveObjects: 0.751200 ms CreateObjectMapping: 0.405500 ms MarkObjects: 3.767600 ms  DeleteObjects: 0.184300 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004501 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Calvin Yusnoveri\Desktop\SUTD Capstone T2\50.033\50033-game-dev-lab\src\MarioGame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Calvin Yusnoveri\Desktop\SUTD Capstone T2\50.033\50033-game-dev-lab\src\MarioGame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.87 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.531 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.85 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4455 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 172.4 MB.
+System memory in use after: 172.5 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 5070.
+Total: 3.716600 ms (FindLiveObjects: 0.384800 ms CreateObjectMapping: 0.317100 ms MarkObjects: 2.834900 ms  DeleteObjects: 0.178700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005128 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Calvin Yusnoveri\Desktop\SUTD Capstone T2\50.033\50033-game-dev-lab\src\MarioGame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Calvin Yusnoveri\Desktop\SUTD Capstone T2\50.033\50033-game-dev-lab\src\MarioGame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.88 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.163 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.82 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4455 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 172.4 MB.
+System memory in use after: 172.6 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 5074.
+Total: 3.110300 ms (FindLiveObjects: 0.370000 ms CreateObjectMapping: 0.219200 ms MarkObjects: 2.360700 ms  DeleteObjects: 0.159600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004261 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Calvin Yusnoveri\Desktop\SUTD Capstone T2\50.033\50033-game-dev-lab\src\MarioGame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Calvin Yusnoveri\Desktop\SUTD Capstone T2\50.033\50033-game-dev-lab\src\MarioGame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.56 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.356 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.88 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4455 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 172.4 MB.
+System memory in use after: 172.6 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 5078.
+Total: 3.946200 ms (FindLiveObjects: 0.435200 ms CreateObjectMapping: 0.350800 ms MarkObjects: 2.993700 ms  DeleteObjects: 0.165600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004447 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Calvin Yusnoveri\Desktop\SUTD Capstone T2\50.033\50033-game-dev-lab\src\MarioGame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Calvin Yusnoveri\Desktop\SUTD Capstone T2\50.033\50033-game-dev-lab\src\MarioGame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.48 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.703 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 1.42 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4455 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 172.4 MB.
+System memory in use after: 172.6 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 5082.
+Total: 3.163900 ms (FindLiveObjects: 0.365000 ms CreateObjectMapping: 0.220100 ms MarkObjects: 2.433400 ms  DeleteObjects: 0.144700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004263 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Calvin Yusnoveri\Desktop\SUTD Capstone T2\50.033\50033-game-dev-lab\src\MarioGame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Calvin Yusnoveri\Desktop\SUTD Capstone T2\50.033\50033-game-dev-lab\src\MarioGame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.88 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.254 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 1.09 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4455 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 172.5 MB.
+System memory in use after: 172.6 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 5086.
+Total: 3.800800 ms (FindLiveObjects: 0.444600 ms CreateObjectMapping: 0.300000 ms MarkObjects: 2.925600 ms  DeleteObjects: 0.127700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004564 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Calvin Yusnoveri\Desktop\SUTD Capstone T2\50.033\50033-game-dev-lab\src\MarioGame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Calvin Yusnoveri\Desktop\SUTD Capstone T2\50.033\50033-game-dev-lab\src\MarioGame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.67 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.426 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.86 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4455 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 172.5 MB.
+System memory in use after: 172.6 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 5090.
+Total: 3.495700 ms (FindLiveObjects: 0.362500 ms CreateObjectMapping: 0.219900 ms MarkObjects: 2.750300 ms  DeleteObjects: 0.162200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005401 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Calvin Yusnoveri\Desktop\SUTD Capstone T2\50.033\50033-game-dev-lab\src\MarioGame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Calvin Yusnoveri\Desktop\SUTD Capstone T2\50.033\50033-game-dev-lab\src\MarioGame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.96 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.264 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.86 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4455 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 172.5 MB.
+System memory in use after: 172.6 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 5094.
+Total: 3.949700 ms (FindLiveObjects: 0.363900 ms CreateObjectMapping: 0.222400 ms MarkObjects: 3.197100 ms  DeleteObjects: 0.165300 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 853.224175 seconds.
+  path: Assets/ScriptableObjects/gameConstants.asset
+  artifactKey: Guid(eecdf7d51379743489d2777c4066836e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjects/gameConstants.asset using Guid(eecdf7d51379743489d2777c4066836e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '17c84200c3e0166a83867c893eae73b4') in 0.027545 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004195 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Calvin Yusnoveri\Desktop\SUTD Capstone T2\50.033\50033-game-dev-lab\src\MarioGame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Calvin Yusnoveri\Desktop\SUTD Capstone T2\50.033\50033-game-dev-lab\src\MarioGame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.88 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.183 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.93 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4455 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 172.5 MB.
+System memory in use after: 172.6 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 5098.
+Total: 3.049700 ms (FindLiveObjects: 0.381200 ms CreateObjectMapping: 0.202700 ms MarkObjects: 2.318000 ms  DeleteObjects: 0.147000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 20.321035 seconds.
+  path: Assets/ScriptableObjects/gameConstants.asset
+  artifactKey: Guid(eecdf7d51379743489d2777c4066836e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjects/gameConstants.asset using Guid(eecdf7d51379743489d2777c4066836e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0b854278fb470e61e4948dd093bbee03') in 0.029928 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004289 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Calvin Yusnoveri\Desktop\SUTD Capstone T2\50.033\50033-game-dev-lab\src\MarioGame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Calvin Yusnoveri\Desktop\SUTD Capstone T2\50.033\50033-game-dev-lab\src\MarioGame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.96 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.245 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 1.07 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4455 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 172.5 MB.
+System memory in use after: 172.6 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 5102.
+Total: 4.088400 ms (FindLiveObjects: 0.456600 ms CreateObjectMapping: 0.412400 ms MarkObjects: 3.050800 ms  DeleteObjects: 0.167100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004973 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Calvin Yusnoveri\Desktop\SUTD Capstone T2\50.033\50033-game-dev-lab\src\MarioGame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Calvin Yusnoveri\Desktop\SUTD Capstone T2\50.033\50033-game-dev-lab\src\MarioGame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.73 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.622 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.94 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4455 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 172.5 MB.
+System memory in use after: 172.6 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 5106.
+Total: 4.051600 ms (FindLiveObjects: 0.480300 ms CreateObjectMapping: 0.408200 ms MarkObjects: 3.034300 ms  DeleteObjects: 0.127200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005018 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Calvin Yusnoveri\Desktop\SUTD Capstone T2\50.033\50033-game-dev-lab\src\MarioGame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Calvin Yusnoveri\Desktop\SUTD Capstone T2\50.033\50033-game-dev-lab\src\MarioGame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.51 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.337 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.83 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4455 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 172.5 MB.
+System memory in use after: 172.6 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 5110.
+Total: 3.255800 ms (FindLiveObjects: 0.345900 ms CreateObjectMapping: 0.226700 ms MarkObjects: 2.509700 ms  DeleteObjects: 0.172800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.007409 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Calvin Yusnoveri\Desktop\SUTD Capstone T2\50.033\50033-game-dev-lab\src\MarioGame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Calvin Yusnoveri\Desktop\SUTD Capstone T2\50.033\50033-game-dev-lab\src\MarioGame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.81 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.351 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.83 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4455 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 172.4 MB.
+System memory in use after: 172.5 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 5114.
+Total: 3.507700 ms (FindLiveObjects: 0.420300 ms CreateObjectMapping: 0.221400 ms MarkObjects: 2.731000 ms  DeleteObjects: 0.134100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004618 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Calvin Yusnoveri\Desktop\SUTD Capstone T2\50.033\50033-game-dev-lab\src\MarioGame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Calvin Yusnoveri\Desktop\SUTD Capstone T2\50.033\50033-game-dev-lab\src\MarioGame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.32 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.469 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.82 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4455 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 172.5 MB.
+System memory in use after: 172.7 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 5118.
+Total: 5.456700 ms (FindLiveObjects: 0.633800 ms CreateObjectMapping: 0.507600 ms MarkObjects: 4.057300 ms  DeleteObjects: 0.256100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005572 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Calvin Yusnoveri\Desktop\SUTD Capstone T2\50.033\50033-game-dev-lab\src\MarioGame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Calvin Yusnoveri\Desktop\SUTD Capstone T2\50.033\50033-game-dev-lab\src\MarioGame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.96 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.548 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.83 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4455 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 172.5 MB.
+System memory in use after: 172.7 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 5122.
+Total: 6.189300 ms (FindLiveObjects: 0.587300 ms CreateObjectMapping: 0.621400 ms MarkObjects: 4.705400 ms  DeleteObjects: 0.273500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004455 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Calvin Yusnoveri\Desktop\SUTD Capstone T2\50.033\50033-game-dev-lab\src\MarioGame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Calvin Yusnoveri\Desktop\SUTD Capstone T2\50.033\50033-game-dev-lab\src\MarioGame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.87 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.205 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.85 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4455 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 172.5 MB.
+System memory in use after: 172.7 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 5126.
+Total: 3.283700 ms (FindLiveObjects: 0.340500 ms CreateObjectMapping: 0.204500 ms MarkObjects: 2.565800 ms  DeleteObjects: 0.171900 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 297.468348 seconds.
+  path: Assets/ScriptableObjects/PoweUps/BlueMushroom.asset
+  artifactKey: Guid(a5bb8f42e1da5d84eb19b71a24752231) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjects/PoweUps/BlueMushroom.asset using Guid(a5bb8f42e1da5d84eb19b71a24752231) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1275eb0b7e3a6da865951815750e4bac') in 0.023845 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.048852 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Calvin Yusnoveri\Desktop\SUTD Capstone T2\50.033\50033-game-dev-lab\src\MarioGame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Calvin Yusnoveri\Desktop\SUTD Capstone T2\50.033\50033-game-dev-lab\src\MarioGame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.77 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.634 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.81 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4455 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 172.6 MB.
+System memory in use after: 172.7 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 5130.
+Total: 3.558700 ms (FindLiveObjects: 0.368800 ms CreateObjectMapping: 0.233800 ms MarkObjects: 2.802900 ms  DeleteObjects: 0.152300 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004502 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Calvin Yusnoveri\Desktop\SUTD Capstone T2\50.033\50033-game-dev-lab\src\MarioGame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Calvin Yusnoveri\Desktop\SUTD Capstone T2\50.033\50033-game-dev-lab\src\MarioGame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.36 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.292 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.83 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4455 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 172.6 MB.
+System memory in use after: 172.7 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 5134.
+Total: 4.765800 ms (FindLiveObjects: 0.370800 ms CreateObjectMapping: 0.318000 ms MarkObjects: 3.932700 ms  DeleteObjects: 0.143000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005382 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Calvin Yusnoveri\Desktop\SUTD Capstone T2\50.033\50033-game-dev-lab\src\MarioGame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Calvin Yusnoveri\Desktop\SUTD Capstone T2\50.033\50033-game-dev-lab\src\MarioGame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.87 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.504 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.85 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4455 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 172.6 MB.
+System memory in use after: 172.7 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 5138.
+Total: 3.581600 ms (FindLiveObjects: 0.428900 ms CreateObjectMapping: 0.197600 ms MarkObjects: 2.800700 ms  DeleteObjects: 0.153500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004808 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Calvin Yusnoveri\Desktop\SUTD Capstone T2\50.033\50033-game-dev-lab\src\MarioGame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Calvin Yusnoveri\Desktop\SUTD Capstone T2\50.033\50033-game-dev-lab\src\MarioGame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.99 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.266 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.91 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4455 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 172.6 MB.
+System memory in use after: 172.7 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 5142.
+Total: 4.583700 ms (FindLiveObjects: 0.364800 ms CreateObjectMapping: 0.432300 ms MarkObjects: 3.572300 ms  DeleteObjects: 0.212900 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005145 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Calvin Yusnoveri\Desktop\SUTD Capstone T2\50.033\50033-game-dev-lab\src\MarioGame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Calvin Yusnoveri\Desktop\SUTD Capstone T2\50.033\50033-game-dev-lab\src\MarioGame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.97 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.237 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 1.10 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4455 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 172.6 MB.
+System memory in use after: 172.7 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 5146.
+Total: 5.948200 ms (FindLiveObjects: 1.001500 ms CreateObjectMapping: 0.567300 ms MarkObjects: 4.253400 ms  DeleteObjects: 0.124100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004332 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Calvin Yusnoveri\Desktop\SUTD Capstone T2\50.033\50033-game-dev-lab\src\MarioGame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Calvin Yusnoveri\Desktop\SUTD Capstone T2\50.033\50033-game-dev-lab\src\MarioGame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.30 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.345 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 1.07 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4455 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 172.6 MB.
+System memory in use after: 172.7 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 5150.
+Total: 3.374000 ms (FindLiveObjects: 0.409500 ms CreateObjectMapping: 0.214300 ms MarkObjects: 2.598400 ms  DeleteObjects: 0.150800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004819 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Calvin Yusnoveri\Desktop\SUTD Capstone T2\50.033\50033-game-dev-lab\src\MarioGame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Calvin Yusnoveri\Desktop\SUTD Capstone T2\50.033\50033-game-dev-lab\src\MarioGame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.90 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.325 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.83 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4455 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 172.6 MB.
+System memory in use after: 172.7 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 5154.
+Total: 3.358700 ms (FindLiveObjects: 0.403900 ms CreateObjectMapping: 0.180400 ms MarkObjects: 2.585000 ms  DeleteObjects: 0.188700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004244 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Calvin Yusnoveri\Desktop\SUTD Capstone T2\50.033\50033-game-dev-lab\src\MarioGame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Calvin Yusnoveri\Desktop\SUTD Capstone T2\50.033\50033-game-dev-lab\src\MarioGame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.11 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.264 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.87 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4455 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 172.6 MB.
+System memory in use after: 172.7 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 5158.
+Total: 3.996900 ms (FindLiveObjects: 0.390000 ms CreateObjectMapping: 0.250100 ms MarkObjects: 3.224000 ms  DeleteObjects: 0.131800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.007477 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Calvin Yusnoveri\Desktop\SUTD Capstone T2\50.033\50033-game-dev-lab\src\MarioGame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Calvin Yusnoveri\Desktop\SUTD Capstone T2\50.033\50033-game-dev-lab\src\MarioGame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.90 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.290 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.88 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4455 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 172.6 MB.
+System memory in use after: 172.8 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 5162.
+Total: 4.423500 ms (FindLiveObjects: 0.447800 ms CreateObjectMapping: 0.280000 ms MarkObjects: 3.537400 ms  DeleteObjects: 0.157100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004673 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Calvin Yusnoveri\Desktop\SUTD Capstone T2\50.033\50033-game-dev-lab\src\MarioGame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Calvin Yusnoveri\Desktop\SUTD Capstone T2\50.033\50033-game-dev-lab\src\MarioGame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.89 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.325 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.88 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4455 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 172.6 MB.
+System memory in use after: 172.8 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 5166.
+Total: 3.390500 ms (FindLiveObjects: 0.428100 ms CreateObjectMapping: 0.244700 ms MarkObjects: 2.560700 ms  DeleteObjects: 0.156000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004222 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Calvin Yusnoveri\Desktop\SUTD Capstone T2\50.033\50033-game-dev-lab\src\MarioGame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Calvin Yusnoveri\Desktop\SUTD Capstone T2\50.033\50033-game-dev-lab\src\MarioGame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.88 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.222 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.81 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4455 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 172.6 MB.
+System memory in use after: 172.8 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 5170.
+Total: 3.264300 ms (FindLiveObjects: 0.405400 ms CreateObjectMapping: 0.223700 ms MarkObjects: 2.474000 ms  DeleteObjects: 0.160300 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004628 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Calvin Yusnoveri\Desktop\SUTD Capstone T2\50.033\50033-game-dev-lab\src\MarioGame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Calvin Yusnoveri\Desktop\SUTD Capstone T2\50.033\50033-game-dev-lab\src\MarioGame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.93 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.285 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 1.59 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4455 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 172.7 MB.
+System memory in use after: 172.8 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 5174.
+Total: 3.386400 ms (FindLiveObjects: 0.400600 ms CreateObjectMapping: 0.230300 ms MarkObjects: 2.583700 ms  DeleteObjects: 0.171100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005380 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Calvin Yusnoveri\Desktop\SUTD Capstone T2\50.033\50033-game-dev-lab\src\MarioGame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Calvin Yusnoveri\Desktop\SUTD Capstone T2\50.033\50033-game-dev-lab\src\MarioGame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.90 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.426 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 1.00 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4455 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 172.7 MB.
+System memory in use after: 172.8 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 5178.
+Total: 4.332600 ms (FindLiveObjects: 0.489000 ms CreateObjectMapping: 0.435700 ms MarkObjects: 3.290700 ms  DeleteObjects: 0.115800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004151 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Calvin Yusnoveri\Desktop\SUTD Capstone T2\50.033\50033-game-dev-lab\src\MarioGame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Calvin Yusnoveri\Desktop\SUTD Capstone T2\50.033\50033-game-dev-lab\src\MarioGame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.78 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.149 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.89 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4455 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 172.7 MB.
+System memory in use after: 172.8 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 5182.
+Total: 3.452800 ms (FindLiveObjects: 0.423700 ms CreateObjectMapping: 0.219900 ms MarkObjects: 2.635000 ms  DeleteObjects: 0.173300 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 1586.372276 seconds.
+  path: Assets/Prefabs/PowerUpManagerEV.prefab
+  artifactKey: Guid(36e71e7acbad4bb44881815e37fbaf76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/PowerUpManagerEV.prefab using Guid(36e71e7acbad4bb44881815e37fbaf76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'adce7453c06f151e9c953223591c39c4') in 0.061314 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 80.965395 seconds.
+  path: Assets/Prefabs/UI.prefab
+  artifactKey: Guid(0550875702621604994f748d64cfa6f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/UI.prefab using Guid(0550875702621604994f748d64cfa6f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '13663770904d2a65a685de790c3cbf37') in 0.042930 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 32.083309 seconds.
+  path: Assets/Prefabs/PowerUpManagerEV.prefab
+  artifactKey: Guid(36e71e7acbad4bb44881815e37fbaf76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/PowerUpManagerEV.prefab using Guid(36e71e7acbad4bb44881815e37fbaf76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '32ab7f63a010fb19c1edd23fa36da9e5') in 0.008835 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 11.419569 seconds.
+  path: Assets/Prefabs/PowerUpManagerEV.prefab
+  artifactKey: Guid(36e71e7acbad4bb44881815e37fbaf76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/PowerUpManagerEV.prefab using Guid(36e71e7acbad4bb44881815e37fbaf76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '452361df5721f8597d8da2021868dbce') in 0.012429 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004326 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Calvin Yusnoveri\Desktop\SUTD Capstone T2\50.033\50033-game-dev-lab\src\MarioGame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Calvin Yusnoveri\Desktop\SUTD Capstone T2\50.033\50033-game-dev-lab\src\MarioGame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.81 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.405 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.95 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4455 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 172.7 MB.
+System memory in use after: 172.8 MB.
+
+Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 5186.
+Total: 4.533500 ms (FindLiveObjects: 0.983300 ms CreateObjectMapping: 0.475900 ms MarkObjects: 2.940400 ms  DeleteObjects: 0.131800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004657 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Calvin Yusnoveri\Desktop\SUTD Capstone T2\50.033\50033-game-dev-lab\src\MarioGame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Calvin Yusnoveri\Desktop\SUTD Capstone T2\50.033\50033-game-dev-lab\src\MarioGame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.82 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.184 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.95 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4455 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 172.7 MB.
+System memory in use after: 172.8 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 5190.
+Total: 5.364600 ms (FindLiveObjects: 0.753100 ms CreateObjectMapping: 0.369900 ms MarkObjects: 4.022300 ms  DeleteObjects: 0.217500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004515 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Calvin Yusnoveri\Desktop\SUTD Capstone T2\50.033\50033-game-dev-lab\src\MarioGame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Calvin Yusnoveri\Desktop\SUTD Capstone T2\50.033\50033-game-dev-lab\src\MarioGame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.24 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.488 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 2.33 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4455 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 172.7 MB.
+System memory in use after: 172.8 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 5194.
+Total: 4.154300 ms (FindLiveObjects: 0.553100 ms CreateObjectMapping: 0.290600 ms MarkObjects: 3.191000 ms  DeleteObjects: 0.118500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004560 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Calvin Yusnoveri\Desktop\SUTD Capstone T2\50.033\50033-game-dev-lab\src\MarioGame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Calvin Yusnoveri\Desktop\SUTD Capstone T2\50.033\50033-game-dev-lab\src\MarioGame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 2.21 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.403 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.89 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4455 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 172.7 MB.
+System memory in use after: 172.8 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 5198.
+Total: 4.086800 ms (FindLiveObjects: 0.637600 ms CreateObjectMapping: 0.250000 ms MarkObjects: 3.043000 ms  DeleteObjects: 0.155200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004800 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Calvin Yusnoveri\Desktop\SUTD Capstone T2\50.033\50033-game-dev-lab\src\MarioGame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Calvin Yusnoveri\Desktop\SUTD Capstone T2\50.033\50033-game-dev-lab\src\MarioGame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.83 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.281 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 1.40 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4455 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 172.7 MB.
+System memory in use after: 172.8 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 5202.
+Total: 4.818300 ms (FindLiveObjects: 0.556600 ms CreateObjectMapping: 0.396500 ms MarkObjects: 3.677200 ms  DeleteObjects: 0.185900 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006515 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Calvin Yusnoveri\Desktop\SUTD Capstone T2\50.033\50033-game-dev-lab\src\MarioGame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Calvin Yusnoveri\Desktop\SUTD Capstone T2\50.033\50033-game-dev-lab\src\MarioGame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.13 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.374 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.85 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4455 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 172.7 MB.
+System memory in use after: 172.9 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 5206.
+Total: 4.327900 ms (FindLiveObjects: 0.412100 ms CreateObjectMapping: 0.214000 ms MarkObjects: 3.526200 ms  DeleteObjects: 0.174600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005931 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Calvin Yusnoveri\Desktop\SUTD Capstone T2\50.033\50033-game-dev-lab\src\MarioGame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Calvin Yusnoveri\Desktop\SUTD Capstone T2\50.033\50033-game-dev-lab\src\MarioGame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.90 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.215 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.84 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4455 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 172.7 MB.
+System memory in use after: 172.8 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 5210.
+Total: 3.498300 ms (FindLiveObjects: 0.371800 ms CreateObjectMapping: 0.328900 ms MarkObjects: 2.635800 ms  DeleteObjects: 0.160900 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 405.091859 seconds.
+  path: Assets/Scenes/MarioLevel2.unity
+  artifactKey: Guid(d7781617d9bb6e248876ec0d5dec3cc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/MarioLevel2.unity using Guid(d7781617d9bb6e248876ec0d5dec3cc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '61daab5d299df35b416ccd8aa316c58d') in 0.024159 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004648 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Calvin Yusnoveri\Desktop\SUTD Capstone T2\50.033\50033-game-dev-lab\src\MarioGame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Calvin Yusnoveri\Desktop\SUTD Capstone T2\50.033\50033-game-dev-lab\src\MarioGame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.92 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.378 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 1.00 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4455 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 172.7 MB.
+System memory in use after: 172.9 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 5214.
+Total: 5.818200 ms (FindLiveObjects: 0.801000 ms CreateObjectMapping: 0.510800 ms MarkObjects: 4.313800 ms  DeleteObjects: 0.190500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004507 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Calvin Yusnoveri\Desktop\SUTD Capstone T2\50.033\50033-game-dev-lab\src\MarioGame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Calvin Yusnoveri\Desktop\SUTD Capstone T2\50.033\50033-game-dev-lab\src\MarioGame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.00 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.337 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.86 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4455 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 172.8 MB.
+System memory in use after: 172.9 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 5218.
+Total: 3.623600 ms (FindLiveObjects: 0.381000 ms CreateObjectMapping: 0.220800 ms MarkObjects: 2.865000 ms  DeleteObjects: 0.155800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 176.122273 seconds.
+  path: Assets/ScriptableObjects/PoweUps/GreenMushroom.asset
+  artifactKey: Guid(957ab1f1892062140af6339ccbd0eec9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjects/PoweUps/GreenMushroom.asset using Guid(957ab1f1892062140af6339ccbd0eec9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8f02c56f535dc47cc62cd63afd65bd2c') in 0.034268 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 6.945074 seconds.
+  path: Assets/ScriptableObjects/PoweUps/GreenMushroom.asset
+  artifactKey: Guid(957ab1f1892062140af6339ccbd0eec9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjects/PoweUps/GreenMushroom.asset using Guid(957ab1f1892062140af6339ccbd0eec9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce1f1ceaf9a6860f37a201a78a7c0524') in 0.006374 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004327 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Calvin Yusnoveri\Desktop\SUTD Capstone T2\50.033\50033-game-dev-lab\src\MarioGame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Calvin Yusnoveri\Desktop\SUTD Capstone T2\50.033\50033-game-dev-lab\src\MarioGame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 3.11 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.415 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.82 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4455 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 172.8 MB.
+System memory in use after: 172.9 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 5222.
+Total: 3.657500 ms (FindLiveObjects: 0.412000 ms CreateObjectMapping: 0.222900 ms MarkObjects: 2.871100 ms  DeleteObjects: 0.150500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004329 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Calvin Yusnoveri\Desktop\SUTD Capstone T2\50.033\50033-game-dev-lab\src\MarioGame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Calvin Yusnoveri\Desktop\SUTD Capstone T2\50.033\50033-game-dev-lab\src\MarioGame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.06 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.224 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.91 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4455 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 172.8 MB.
+System memory in use after: 172.9 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 5226.
+Total: 4.946900 ms (FindLiveObjects: 0.420300 ms CreateObjectMapping: 0.242700 ms MarkObjects: 4.136400 ms  DeleteObjects: 0.146300 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 198.337362 seconds.
+  path: Assets/Scenes/MarioLevel1.unity
+  artifactKey: Guid(a76171d41f3f29b4da65399e710775a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/MarioLevel1.unity using Guid(a76171d41f3f29b4da65399e710775a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1b6429deeafc8f265d66c189a39ef7cf') in 0.021692 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004788 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Calvin Yusnoveri\Desktop\SUTD Capstone T2\50.033\50033-game-dev-lab\src\MarioGame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Calvin Yusnoveri\Desktop\SUTD Capstone T2\50.033\50033-game-dev-lab\src\MarioGame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.90 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.184 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.89 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4455 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 172.8 MB.
+System memory in use after: 172.9 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 5230.
+Total: 3.906300 ms (FindLiveObjects: 0.402100 ms CreateObjectMapping: 0.419400 ms MarkObjects: 2.932200 ms  DeleteObjects: 0.151200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 249.860051 seconds.
+  path: Assets/Scripts/EV/PowerUpManagerEV.cs
+  artifactKey: Guid(cb3590159107eca49b89149291b77c7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/EV/PowerUpManagerEV.cs using Guid(cb3590159107eca49b89149291b77c7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '32bffaeebcbe3b464ecf2ad3a3a77abe') in 0.031719 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.715283 seconds.
+  path: Assets/Scripts/EV/CastEventListener.cs
+  artifactKey: Guid(d83cac60dab4f2e409b68b3f813c950c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/EV/CastEventListener.cs using Guid(d83cac60dab4f2e409b68b3f813c950c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a3fe6fb0b1a5d63bb07d40837cd6b185') in 0.005317 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 95.671737 seconds.
+  path: Assets/Prefabs/Coin.prefab
+  artifactKey: Guid(df252950a48814a49972e968a8cfc80d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Coin.prefab using Guid(df252950a48814a49972e968a8cfc80d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '678ac8804c566cb1a26542f1a09c7fb4') in 0.293988 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.177771 seconds.
+  path: Assets/Prefabs/Coin.prefab
+  artifactKey: Guid(df252950a48814a49972e968a8cfc80d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Coin.prefab using Guid(df252950a48814a49972e968a8cfc80d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f4648423d2cde4e073afc428184712a0') in 0.017725 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004473 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Calvin Yusnoveri\Desktop\SUTD Capstone T2\50.033\50033-game-dev-lab\src\MarioGame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Calvin Yusnoveri\Desktop\SUTD Capstone T2\50.033\50033-game-dev-lab\src\MarioGame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.91 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.364 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.83 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4455 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 179.1 MB.
+System memory in use after: 179.2 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 5281.
+Total: 3.680100 ms (FindLiveObjects: 0.376800 ms CreateObjectMapping: 0.334300 ms MarkObjects: 2.833000 ms  DeleteObjects: 0.135200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 29.955961 seconds.
+  path: Assets/Prefabs/Coin.prefab
+  artifactKey: Guid(df252950a48814a49972e968a8cfc80d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Coin.prefab using Guid(df252950a48814a49972e968a8cfc80d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3bbb8cf4d14d280ca01ec53a0cff5986') in 0.192292 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.552914 seconds.
+  path: Assets/Prefabs/Coin.prefab
+  artifactKey: Guid(df252950a48814a49972e968a8cfc80d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Coin.prefab using Guid(df252950a48814a49972e968a8cfc80d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df461b125f23f002088448b43da2a47f') in 0.015108 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 52.941453 seconds.
+  path: Assets/Prefabs/Coin.prefab
+  artifactKey: Guid(df252950a48814a49972e968a8cfc80d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Coin.prefab using Guid(df252950a48814a49972e968a8cfc80d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c892dda1035d4b2fcf8afc8a512a4ff0') in 0.015955 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 15.286079 seconds.
+  path: Assets/Prefabs/Coin.prefab
+  artifactKey: Guid(df252950a48814a49972e968a8cfc80d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Coin.prefab using Guid(df252950a48814a49972e968a8cfc80d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc7dc1b64ef3f2c4514f703ad9150d28') in 0.017464 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004497 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Calvin Yusnoveri\Desktop\SUTD Capstone T2\50.033\50033-game-dev-lab\src\MarioGame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Calvin Yusnoveri\Desktop\SUTD Capstone T2\50.033\50033-game-dev-lab\src\MarioGame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.00 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.264 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.92 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4455 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 179.2 MB.
+System memory in use after: 179.3 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 5323.
+Total: 4.375400 ms (FindLiveObjects: 0.672800 ms CreateObjectMapping: 0.405500 ms MarkObjects: 3.120600 ms  DeleteObjects: 0.175200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004402 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Calvin Yusnoveri\Desktop\SUTD Capstone T2\50.033\50033-game-dev-lab\src\MarioGame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Calvin Yusnoveri\Desktop\SUTD Capstone T2\50.033\50033-game-dev-lab\src\MarioGame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.85 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.209 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.89 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4455 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 179.2 MB.
+System memory in use after: 179.3 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 5327.
+Total: 3.598500 ms (FindLiveObjects: 0.463100 ms CreateObjectMapping: 0.287200 ms MarkObjects: 2.671700 ms  DeleteObjects: 0.175600 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 44.681567 seconds.
+  path: Assets/Prefabs/Coin.prefab
+  artifactKey: Guid(df252950a48814a49972e968a8cfc80d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Coin.prefab using Guid(df252950a48814a49972e968a8cfc80d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9846febe45fde3f713974e5b08431484') in 0.213435 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004693 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Calvin Yusnoveri\Desktop\SUTD Capstone T2\50.033\50033-game-dev-lab\src\MarioGame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Calvin Yusnoveri\Desktop\SUTD Capstone T2\50.033\50033-game-dev-lab\src\MarioGame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.35 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.263 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.90 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4455 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 179.2 MB.
+System memory in use after: 179.3 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 5369.
+Total: 3.883700 ms (FindLiveObjects: 0.438000 ms CreateObjectMapping: 0.235600 ms MarkObjects: 3.050100 ms  DeleteObjects: 0.159000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004162 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Calvin Yusnoveri\Desktop\SUTD Capstone T2\50.033\50033-game-dev-lab\src\MarioGame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Calvin Yusnoveri\Desktop\SUTD Capstone T2\50.033\50033-game-dev-lab\src\MarioGame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.95 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.509 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 1.04 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4455 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 179.2 MB.
+System memory in use after: 179.3 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 5373.
+Total: 5.368400 ms (FindLiveObjects: 1.763400 ms CreateObjectMapping: 0.354800 ms MarkObjects: 3.135800 ms  DeleteObjects: 0.111700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004278 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Calvin Yusnoveri\Desktop\SUTD Capstone T2\50.033\50033-game-dev-lab\src\MarioGame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Calvin Yusnoveri\Desktop\SUTD Capstone T2\50.033\50033-game-dev-lab\src\MarioGame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.79 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.264 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.95 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4455 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 179.1 MB.
+System memory in use after: 179.3 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 5377.
+Total: 3.813400 ms (FindLiveObjects: 0.382700 ms CreateObjectMapping: 0.295500 ms MarkObjects: 3.003600 ms  DeleteObjects: 0.130500 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 248.928696 seconds.
+  path: Assets/ScriptableObjects/gameConstants.asset
+  artifactKey: Guid(eecdf7d51379743489d2777c4066836e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjects/gameConstants.asset using Guid(eecdf7d51379743489d2777c4066836e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b0fdfaf1b596030d175bd6d2ea1dc62') in 0.036127 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004323 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Calvin Yusnoveri\Desktop\SUTD Capstone T2\50.033\50033-game-dev-lab\src\MarioGame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Calvin Yusnoveri\Desktop\SUTD Capstone T2\50.033\50033-game-dev-lab\src\MarioGame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.86 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.226 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.84 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4455 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 179.1 MB.
+System memory in use after: 179.3 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 5381.
+Total: 6.202300 ms (FindLiveObjects: 0.761400 ms CreateObjectMapping: 0.402600 ms MarkObjects: 4.841500 ms  DeleteObjects: 0.174300 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004177 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Calvin Yusnoveri\Desktop\SUTD Capstone T2\50.033\50033-game-dev-lab\src\MarioGame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Calvin Yusnoveri\Desktop\SUTD Capstone T2\50.033\50033-game-dev-lab\src\MarioGame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.76 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.206 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.84 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4455 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 179.1 MB.
+System memory in use after: 179.3 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 5385.
+Total: 3.993600 ms (FindLiveObjects: 0.391600 ms CreateObjectMapping: 0.214000 ms MarkObjects: 3.256600 ms  DeleteObjects: 0.130400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 27.376384 seconds.
+  path: Assets/ScriptableObjects/gameConstants.asset
+  artifactKey: Guid(eecdf7d51379743489d2777c4066836e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjects/gameConstants.asset using Guid(eecdf7d51379743489d2777c4066836e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '046d40753d31aabb8d5c3dacb3acbc40') in 0.028625 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005994 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Calvin Yusnoveri\Desktop\SUTD Capstone T2\50.033\50033-game-dev-lab\src\MarioGame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Calvin Yusnoveri\Desktop\SUTD Capstone T2\50.033\50033-game-dev-lab\src\MarioGame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.89 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.168 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.84 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4455 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 179.2 MB.
+System memory in use after: 179.3 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 5389.
+Total: 3.564100 ms (FindLiveObjects: 0.411400 ms CreateObjectMapping: 0.223000 ms MarkObjects: 2.784800 ms  DeleteObjects: 0.143900 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 66.779960 seconds.
+  path: Assets/ScriptableObjects/PoweUps/GreenMushroom.asset
+  artifactKey: Guid(957ab1f1892062140af6339ccbd0eec9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjects/PoweUps/GreenMushroom.asset using Guid(957ab1f1892062140af6339ccbd0eec9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f25cf865d017bf5877986f529121113f') in 0.022184 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004833 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Calvin Yusnoveri\Desktop\SUTD Capstone T2\50.033\50033-game-dev-lab\src\MarioGame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Calvin Yusnoveri\Desktop\SUTD Capstone T2\50.033\50033-game-dev-lab\src\MarioGame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.82 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.272 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.89 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4455 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 179.2 MB.
+System memory in use after: 179.3 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 5393.
+Total: 3.975200 ms (FindLiveObjects: 0.443400 ms CreateObjectMapping: 0.273300 ms MarkObjects: 3.074300 ms  DeleteObjects: 0.181600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006116 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Calvin Yusnoveri\Desktop\SUTD Capstone T2\50.033\50033-game-dev-lab\src\MarioGame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Calvin Yusnoveri\Desktop\SUTD Capstone T2\50.033\50033-game-dev-lab\src\MarioGame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.98 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.149 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.85 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4455 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 179.2 MB.
+System memory in use after: 179.3 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 5397.
+Total: 3.808200 ms (FindLiveObjects: 0.432000 ms CreateObjectMapping: 0.227900 ms MarkObjects: 2.982900 ms  DeleteObjects: 0.164400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004570 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Calvin Yusnoveri\Desktop\SUTD Capstone T2\50.033\50033-game-dev-lab\src\MarioGame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Calvin Yusnoveri\Desktop\SUTD Capstone T2\50.033\50033-game-dev-lab\src\MarioGame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.00 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.276 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.91 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4455 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 179.2 MB.
+System memory in use after: 179.3 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 5401.
+Total: 4.059100 ms (FindLiveObjects: 0.530200 ms CreateObjectMapping: 0.243400 ms MarkObjects: 3.145000 ms  DeleteObjects: 0.139400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004393 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Calvin Yusnoveri\Desktop\SUTD Capstone T2\50.033\50033-game-dev-lab\src\MarioGame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Calvin Yusnoveri\Desktop\SUTD Capstone T2\50.033\50033-game-dev-lab\src\MarioGame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.90 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.174 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.85 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4455 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 179.2 MB.
+System memory in use after: 179.3 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 5405.
+Total: 4.924200 ms (FindLiveObjects: 0.490400 ms CreateObjectMapping: 0.569500 ms MarkObjects: 3.687800 ms  DeleteObjects: 0.175300 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 125.340183 seconds.
+  path: Assets/ScriptableObjects/gameConstants.asset
+  artifactKey: Guid(eecdf7d51379743489d2777c4066836e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjects/gameConstants.asset using Guid(eecdf7d51379743489d2777c4066836e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f52bf7e5f75ffa131aad4b2eb815235') in 0.020990 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004233 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Calvin Yusnoveri\Desktop\SUTD Capstone T2\50.033\50033-game-dev-lab\src\MarioGame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Calvin Yusnoveri\Desktop\SUTD Capstone T2\50.033\50033-game-dev-lab\src\MarioGame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.85 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.203 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.83 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4455 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 179.2 MB.
+System memory in use after: 179.4 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 5409.
+Total: 3.606300 ms (FindLiveObjects: 0.385700 ms CreateObjectMapping: 0.269300 ms MarkObjects: 2.782400 ms  DeleteObjects: 0.167900 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004680 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Calvin Yusnoveri\Desktop\SUTD Capstone T2\50.033\50033-game-dev-lab\src\MarioGame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Calvin Yusnoveri\Desktop\SUTD Capstone T2\50.033\50033-game-dev-lab\src\MarioGame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.94 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.260 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.82 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4455 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 179.2 MB.
+System memory in use after: 179.4 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 5413.
+Total: 3.790600 ms (FindLiveObjects: 0.395400 ms CreateObjectMapping: 0.203700 ms MarkObjects: 3.061700 ms  DeleteObjects: 0.128900 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 152.872084 seconds.
+  path: Assets/Scenes/MarioLevel2.unity
+  artifactKey: Guid(d7781617d9bb6e248876ec0d5dec3cc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/MarioLevel2.unity using Guid(d7781617d9bb6e248876ec0d5dec3cc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '385e095cf726897eafa736f5ec40d30e') in 0.020706 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 17.769736 seconds.
+  path: Assets/Scenes/MarioLevel1.unity
+  artifactKey: Guid(a76171d41f3f29b4da65399e710775a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/MarioLevel1.unity using Guid(a76171d41f3f29b4da65399e710775a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b2dc26ae69acba5032293543b3a992f8') in 0.005017 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004914 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Calvin Yusnoveri\Desktop\SUTD Capstone T2\50.033\50033-game-dev-lab\src\MarioGame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Calvin Yusnoveri\Desktop\SUTD Capstone T2\50.033\50033-game-dev-lab\src\MarioGame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 2.12 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.332 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 1.09 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4455 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 179.3 MB.
+System memory in use after: 179.4 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 5417.
+Total: 5.764100 ms (FindLiveObjects: 0.827400 ms CreateObjectMapping: 0.549600 ms MarkObjects: 4.204500 ms  DeleteObjects: 0.180800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005544 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Calvin Yusnoveri\Desktop\SUTD Capstone T2\50.033\50033-game-dev-lab\src\MarioGame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Calvin Yusnoveri\Desktop\SUTD Capstone T2\50.033\50033-game-dev-lab\src\MarioGame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.86 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.347 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.87 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4455 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 179.3 MB.
+System memory in use after: 179.4 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 5421.
+Total: 3.813200 ms (FindLiveObjects: 0.427600 ms CreateObjectMapping: 0.255000 ms MarkObjects: 2.869000 ms  DeleteObjects: 0.260700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004379 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Calvin Yusnoveri\Desktop\SUTD Capstone T2\50.033\50033-game-dev-lab\src\MarioGame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Calvin Yusnoveri\Desktop\SUTD Capstone T2\50.033\50033-game-dev-lab\src\MarioGame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.83 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.275 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.94 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4455 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 179.2 MB.
+System memory in use after: 179.3 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 5425.
+Total: 5.260500 ms (FindLiveObjects: 0.420500 ms CreateObjectMapping: 0.236300 ms MarkObjects: 4.410700 ms  DeleteObjects: 0.191400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004710 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Calvin Yusnoveri\Desktop\SUTD Capstone T2\50.033\50033-game-dev-lab\src\MarioGame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Calvin Yusnoveri\Desktop\SUTD Capstone T2\50.033\50033-game-dev-lab\src\MarioGame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.82 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.273 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.82 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4455 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 179.3 MB.
+System memory in use after: 179.4 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 5429.
+Total: 4.970600 ms (FindLiveObjects: 0.591200 ms CreateObjectMapping: 0.412500 ms MarkObjects: 3.747400 ms  DeleteObjects: 0.217700 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 215.205040 seconds.
+  path: Assets/Prefabs/PowerUpManagerEV.prefab
+  artifactKey: Guid(36e71e7acbad4bb44881815e37fbaf76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/PowerUpManagerEV.prefab using Guid(36e71e7acbad4bb44881815e37fbaf76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b71432ace36de588b2e6beb83a8c5cf1') in 0.050737 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.442174 seconds.
+  path: Assets/Prefabs/PowerUpManagerEV.prefab
+  artifactKey: Guid(36e71e7acbad4bb44881815e37fbaf76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/PowerUpManagerEV.prefab using Guid(36e71e7acbad4bb44881815e37fbaf76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b09d283fc3ad9a109d4edb0d76f664be') in 0.007823 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.672446 seconds.
+  path: Assets/Prefabs/PowerUpManagerEV.prefab
+  artifactKey: Guid(36e71e7acbad4bb44881815e37fbaf76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/PowerUpManagerEV.prefab using Guid(36e71e7acbad4bb44881815e37fbaf76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'af3cc3466d75789eb054c7a8f604eae1') in 0.009779 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.816743 seconds.
+  path: Assets/Prefabs/PowerUpManagerEV.prefab
+  artifactKey: Guid(36e71e7acbad4bb44881815e37fbaf76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/PowerUpManagerEV.prefab using Guid(36e71e7acbad4bb44881815e37fbaf76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3664b960f9201eb013a7bcca57ed7e14') in 0.006947 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 6.552319 seconds.
+  path: Assets/Prefabs/GoombaEV.prefab
+  artifactKey: Guid(96e0ee81edb236a408924a37ab7618b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GoombaEV.prefab using Guid(96e0ee81edb236a408924a37ab7618b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '899c1270d81e711a5ac0cfb859d2da8d') in 0.198973 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 7.771495 seconds.
+  path: Assets/Prefabs/GoombaEV.prefab
+  artifactKey: Guid(96e0ee81edb236a408924a37ab7618b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GoombaEV.prefab using Guid(96e0ee81edb236a408924a37ab7618b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b4ccaad4603027c04601bf87c65ca68') in 0.015494 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.435464 seconds.
+  path: Assets/Prefabs/GoombaEV.prefab
+  artifactKey: Guid(96e0ee81edb236a408924a37ab7618b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GoombaEV.prefab using Guid(96e0ee81edb236a408924a37ab7618b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ff6084b2da16b6047df97f9f57de0e72') in 0.017882 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.436460 seconds.
+  path: Assets/Prefabs/GoombaEV.prefab
+  artifactKey: Guid(96e0ee81edb236a408924a37ab7618b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GoombaEV.prefab using Guid(96e0ee81edb236a408924a37ab7618b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '26c822068b63015af9602edaafa71902') in 0.015424 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 8.343797 seconds.
+  path: Assets/Prefabs/GreenEnemyEV.prefab
+  artifactKey: Guid(3b295ef999a325047bef18d8f5e6fa15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GreenEnemyEV.prefab using Guid(3b295ef999a325047bef18d8f5e6fa15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '02655495a3fd8ab3c8a605b935658f95') in 0.015102 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.315226 seconds.
+  path: Assets/Prefabs/GreenEnemyEV.prefab
+  artifactKey: Guid(3b295ef999a325047bef18d8f5e6fa15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GreenEnemyEV.prefab using Guid(3b295ef999a325047bef18d8f5e6fa15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '125693cbded0c524e5051e89cfca3bc2') in 0.016074 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.238732 seconds.
+  path: Assets/Prefabs/GreenEnemyEV.prefab
+  artifactKey: Guid(3b295ef999a325047bef18d8f5e6fa15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GreenEnemyEV.prefab using Guid(3b295ef999a325047bef18d8f5e6fa15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f16fbb77f49129def45d5cce9102c5d7') in 0.015935 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.834851 seconds.
+  path: Assets/Prefabs/GreenEnemyEV.prefab
+  artifactKey: Guid(3b295ef999a325047bef18d8f5e6fa15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GreenEnemyEV.prefab using Guid(3b295ef999a325047bef18d8f5e6fa15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd8d7d2b8ae58db429fa7e9e0860ce844') in 0.016735 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004675 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Calvin Yusnoveri\Desktop\SUTD Capstone T2\50.033\50033-game-dev-lab\src\MarioGame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Calvin Yusnoveri\Desktop\SUTD Capstone T2\50.033\50033-game-dev-lab\src\MarioGame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.48 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.389 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 1.01 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4455 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 179.6 MB.
+System memory in use after: 179.9 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 5471.
+Total: 3.701700 ms (FindLiveObjects: 0.477200 ms CreateObjectMapping: 0.268200 ms MarkObjects: 2.842100 ms  DeleteObjects: 0.113000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 167.894910 seconds.
+  path: Assets/Scripts/EV/EnemyControllerEV.cs
+  artifactKey: Guid(c81fdfff71e12d14fbcbb2eb1199ea2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/EV/EnemyControllerEV.cs using Guid(c81fdfff71e12d14fbcbb2eb1199ea2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e006585910e6dd5e3b2ed2373eea2d45') in 0.009392 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006035 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Calvin Yusnoveri\Desktop\SUTD Capstone T2\50.033\50033-game-dev-lab\src\MarioGame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Calvin Yusnoveri\Desktop\SUTD Capstone T2\50.033\50033-game-dev-lab\src\MarioGame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.93 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.198 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.91 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4455 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 179.5 MB.
+System memory in use after: 179.8 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 5475.
+Total: 4.576700 ms (FindLiveObjects: 0.670200 ms CreateObjectMapping: 0.303800 ms MarkObjects: 3.447000 ms  DeleteObjects: 0.154300 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 126.013009 seconds.
+  path: Assets/Scenes/MarioLevel2.unity
+  artifactKey: Guid(d7781617d9bb6e248876ec0d5dec3cc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/MarioLevel2.unity using Guid(d7781617d9bb6e248876ec0d5dec3cc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '008dd1360afcdb83edd215100fab34da') in 0.021855 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004414 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Calvin Yusnoveri\Desktop\SUTD Capstone T2\50.033\50033-game-dev-lab\src\MarioGame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Calvin Yusnoveri\Desktop\SUTD Capstone T2\50.033\50033-game-dev-lab\src\MarioGame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.97 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.223 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.90 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4455 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 179.5 MB.
+System memory in use after: 179.9 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 5479.
+Total: 4.187900 ms (FindLiveObjects: 0.466100 ms CreateObjectMapping: 0.280500 ms MarkObjects: 3.286600 ms  DeleteObjects: 0.153400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005443 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Calvin Yusnoveri\Desktop\SUTD Capstone T2\50.033\50033-game-dev-lab\src\MarioGame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Calvin Yusnoveri\Desktop\SUTD Capstone T2\50.033\50033-game-dev-lab\src\MarioGame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.22 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.608 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 1.01 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4455 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 179.6 MB.
+System memory in use after: 179.9 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 5483.
+Total: 6.096900 ms (FindLiveObjects: 0.776800 ms CreateObjectMapping: 0.588200 ms MarkObjects: 4.482900 ms  DeleteObjects: 0.247000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 146.105471 seconds.
+  path: Assets/Prefabs/ScoreEventListener.prefab
+  artifactKey: Guid(7792dfc2992346643b57bb3fdbf94bae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/ScoreEventListener.prefab using Guid(7792dfc2992346643b57bb3fdbf94bae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad6fe5475859a00f38b75ed460b03266') in 0.046489 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 26.711985 seconds.
+  path: Assets/Prefabs/ScoreEventListener.prefab
+  artifactKey: Guid(7792dfc2992346643b57bb3fdbf94bae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/ScoreEventListener.prefab using Guid(7792dfc2992346643b57bb3fdbf94bae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ff95bbc4f398f0caa3ade46cd214ba63') in 0.006977 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 28.637356 seconds.
+  path: Assets/Tiles/Medium Bush.prefab
+  artifactKey: Guid(597cbee3e13cc41d08ba2949d6cd8d85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/Medium Bush.prefab using Guid(597cbee3e13cc41d08ba2949d6cd8d85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'defd13a14f51c76e33342703e17f54f4') in 0.230814 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000414 seconds.
+  path: Assets/Tiles/Medium Cloud.prefab
+  artifactKey: Guid(4a1eba94e669749d0aaebd850fbb3c9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/Medium Cloud.prefab using Guid(4a1eba94e669749d0aaebd850fbb3c9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae3df88d5317b0efea5fc795abb5734a') in 0.026309 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 204.798990 seconds.
+  path: Assets/Scenes/MarioLevel2.unity
+  artifactKey: Guid(d7781617d9bb6e248876ec0d5dec3cc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/MarioLevel2.unity using Guid(d7781617d9bb6e248876ec0d5dec3cc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f473712387c5dd188fd3c18bc3e0f861') in 0.005273 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.769023 seconds.
+  path: Assets/Scenes/MarioLevel1.unity
+  artifactKey: Guid(a76171d41f3f29b4da65399e710775a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/MarioLevel1.unity using Guid(a76171d41f3f29b4da65399e710775a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b63ed235d9d0f9cc3f8e1bb51274f2a1') in 0.004493 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005591 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Calvin Yusnoveri\Desktop\SUTD Capstone T2\50.033\50033-game-dev-lab\src\MarioGame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Calvin Yusnoveri\Desktop\SUTD Capstone T2\50.033\50033-game-dev-lab\src\MarioGame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.81 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.324 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.88 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4455 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 179.7 MB.
+System memory in use after: 180.0 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 5525.
+Total: 4.939500 ms (FindLiveObjects: 1.120100 ms CreateObjectMapping: 0.450400 ms MarkObjects: 3.249800 ms  DeleteObjects: 0.118000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005167 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Calvin Yusnoveri\Desktop\SUTD Capstone T2\50.033\50033-game-dev-lab\src\MarioGame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Calvin Yusnoveri\Desktop\SUTD Capstone T2\50.033\50033-game-dev-lab\src\MarioGame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.84 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.193 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.88 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4455 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 179.7 MB.
+System memory in use after: 180.0 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 5529.
+Total: 4.275900 ms (FindLiveObjects: 0.691600 ms CreateObjectMapping: 0.442500 ms MarkObjects: 3.003300 ms  DeleteObjects: 0.137700 ms)
+
+========================================================================
+Received Prepare
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 6.16 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 14 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 90.3 MB.
+System memory in use after: 90.6 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 5529.
+Total: 7.018000 ms (FindLiveObjects: 1.148000 ms CreateObjectMapping: 0.645300 ms MarkObjects: 4.985200 ms  DeleteObjects: 0.237900 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 282.668913 seconds.
+  path: Assets/Prefabs/GameManagerEV.prefab
+  artifactKey: Guid(c1ecea0c0a6701c4a8efb2370907605d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GameManagerEV.prefab using Guid(c1ecea0c0a6701c4a8efb2370907605d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5bacceedce66f467c29b7ef08c41846a') in 0.052527 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.002296 seconds.
+  path: Assets/Prefabs/GameManagerEV.prefab
+  artifactKey: Guid(c1ecea0c0a6701c4a8efb2370907605d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GameManagerEV.prefab using Guid(c1ecea0c0a6701c4a8efb2370907605d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0c275bab245c390cefc294bafefeb98c') in 0.008023 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 5.660379 seconds.
+  path: Assets/Prefabs/GameManagerEV.prefab
+  artifactKey: Guid(c1ecea0c0a6701c4a8efb2370907605d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GameManagerEV.prefab using Guid(c1ecea0c0a6701c4a8efb2370907605d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd7d1e15f5300986a6bd9f39a54d7edd7') in 0.008278 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.244617 seconds.
+  path: Assets/Prefabs/GameManagerEV.prefab
+  artifactKey: Guid(c1ecea0c0a6701c4a8efb2370907605d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GameManagerEV.prefab using Guid(c1ecea0c0a6701c4a8efb2370907605d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '07791b731b6a5d92dc77a89cf1d0db40') in 0.010637 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 390.783481 seconds.
+  path: Assets/Prefabs/GameManagerEV.prefab
+  artifactKey: Guid(c1ecea0c0a6701c4a8efb2370907605d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GameManagerEV.prefab using Guid(c1ecea0c0a6701c4a8efb2370907605d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e7d0252ecddeb410b363d9fa1c217789') in 0.009537 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 6.222023 seconds.
+  path: Assets/Prefabs/GameManagerEV.prefab
+  artifactKey: Guid(c1ecea0c0a6701c4a8efb2370907605d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GameManagerEV.prefab using Guid(c1ecea0c0a6701c4a8efb2370907605d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'adf75506fcd36b473dd2c7cdaaf237cd') in 0.007743 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.532637 seconds.
+  path: Assets/Prefabs/GameManagerEV.prefab
+  artifactKey: Guid(c1ecea0c0a6701c4a8efb2370907605d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GameManagerEV.prefab using Guid(c1ecea0c0a6701c4a8efb2370907605d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '845481e58af84055460e92578d7ba388') in 0.008244 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.826451 seconds.
+  path: Assets/Prefabs/GameManagerEV.prefab
+  artifactKey: Guid(c1ecea0c0a6701c4a8efb2370907605d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GameManagerEV.prefab using Guid(c1ecea0c0a6701c4a8efb2370907605d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c47196d68559bd9e6f939894f353455f') in 0.006777 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005265 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Calvin Yusnoveri\Desktop\SUTD Capstone T2\50.033\50033-game-dev-lab\src\MarioGame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Calvin Yusnoveri\Desktop\SUTD Capstone T2\50.033\50033-game-dev-lab\src\MarioGame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.83 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.263 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.81 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4455 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 179.6 MB.
+System memory in use after: 179.9 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 5533.
+Total: 5.573700 ms (FindLiveObjects: 0.641100 ms CreateObjectMapping: 0.549400 ms MarkObjects: 4.204700 ms  DeleteObjects: 0.176900 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 86.922339 seconds.
+  path: Assets/Tiles/gomba.prefab
+  artifactKey: Guid(f6f99d2c27be84815a710c7dffe82417) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/gomba.prefab using Guid(f6f99d2c27be84815a710c7dffe82417) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6c077c0fb0964f8a45f4cbe4d0e9f2ce') in 0.249204 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004855 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Calvin Yusnoveri\Desktop\SUTD Capstone T2\50.033\50033-game-dev-lab\src\MarioGame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Calvin Yusnoveri\Desktop\SUTD Capstone T2\50.033\50033-game-dev-lab\src\MarioGame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.85 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.301 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.89 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4455 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 179.8 MB.
+System memory in use after: 180.1 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 5575.
+Total: 4.176400 ms (FindLiveObjects: 0.551100 ms CreateObjectMapping: 0.244000 ms MarkObjects: 3.170700 ms  DeleteObjects: 0.209900 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 83.108136 seconds.
+  path: Assets/Prefabs/GameManagerEV.prefab
+  artifactKey: Guid(c1ecea0c0a6701c4a8efb2370907605d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GameManagerEV.prefab using Guid(c1ecea0c0a6701c4a8efb2370907605d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4011e4a6903637dfc27293c34d3a865f') in 0.058661 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.244995 seconds.
+  path: Assets/Prefabs/GameManagerEV.prefab
+  artifactKey: Guid(c1ecea0c0a6701c4a8efb2370907605d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GameManagerEV.prefab using Guid(c1ecea0c0a6701c4a8efb2370907605d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9971c5bf3cca898a06dc6a8ca0beeed2') in 0.009175 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.918568 seconds.
+  path: Assets/Prefabs/GameManagerEV.prefab
+  artifactKey: Guid(c1ecea0c0a6701c4a8efb2370907605d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GameManagerEV.prefab using Guid(c1ecea0c0a6701c4a8efb2370907605d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1dd016b742c96540e6ba0f98b4546502') in 0.008662 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 12.514293 seconds.
+  path: Assets/Prefabs/GameManagerEV.prefab
+  artifactKey: Guid(c1ecea0c0a6701c4a8efb2370907605d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GameManagerEV.prefab using Guid(c1ecea0c0a6701c4a8efb2370907605d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '97b60b50d836cf9bd85f317aba6017f2') in 0.009521 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 7.901541 seconds.
+  path: Assets/Prefabs/GameManagerEV.prefab
+  artifactKey: Guid(c1ecea0c0a6701c4a8efb2370907605d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GameManagerEV.prefab using Guid(c1ecea0c0a6701c4a8efb2370907605d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '08796a0af8eee064c09db42cbec71f27') in 0.009229 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.617702 seconds.
+  path: Assets/Prefabs/GameManagerEV.prefab
+  artifactKey: Guid(c1ecea0c0a6701c4a8efb2370907605d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GameManagerEV.prefab using Guid(c1ecea0c0a6701c4a8efb2370907605d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ffe56f245535dbb8c45dc8bd154af7f5') in 0.007972 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004315 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Calvin Yusnoveri\Desktop\SUTD Capstone T2\50.033\50033-game-dev-lab\src\MarioGame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Calvin Yusnoveri\Desktop\SUTD Capstone T2\50.033\50033-game-dev-lab\src\MarioGame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.56 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.199 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 1.14 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4455 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 179.8 MB.
+System memory in use after: 180.1 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 5579.
+Total: 6.522600 ms (FindLiveObjects: 1.392900 ms CreateObjectMapping: 0.493600 ms MarkObjects: 4.452200 ms  DeleteObjects: 0.181600 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 22.118151 seconds.
+  path: Assets/Prefabs/GameManagerEV.prefab
+  artifactKey: Guid(c1ecea0c0a6701c4a8efb2370907605d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GameManagerEV.prefab using Guid(c1ecea0c0a6701c4a8efb2370907605d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd1a4861b0d36ac0aab39dba1942b89a5') in 0.049234 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 10.566535 seconds.
+  path: Assets/Prefabs/GameManagerEV.prefab
+  artifactKey: Guid(c1ecea0c0a6701c4a8efb2370907605d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GameManagerEV.prefab using Guid(c1ecea0c0a6701c4a8efb2370907605d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cdb1e956984df80976ea013ba6c7fd24') in 0.008113 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 5.663401 seconds.
+  path: Assets/Prefabs/GameManagerEV.prefab
+  artifactKey: Guid(c1ecea0c0a6701c4a8efb2370907605d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GameManagerEV.prefab using Guid(c1ecea0c0a6701c4a8efb2370907605d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '380bf4b0cddd909cd19cb472c5e2934a') in 0.007744 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004241 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Calvin Yusnoveri\Desktop\SUTD Capstone T2\50.033\50033-game-dev-lab\src\MarioGame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Calvin Yusnoveri\Desktop\SUTD Capstone T2\50.033\50033-game-dev-lab\src\MarioGame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.79 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.269 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.90 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4455 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 179.8 MB.
+System memory in use after: 180.1 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 5583.
+Total: 4.144300 ms (FindLiveObjects: 0.433900 ms CreateObjectMapping: 0.235800 ms MarkObjects: 3.340700 ms  DeleteObjects: 0.133100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 19.379932 seconds.
+  path: Assets/Prefabs/GameManagerEV.prefab
+  artifactKey: Guid(c1ecea0c0a6701c4a8efb2370907605d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GameManagerEV.prefab using Guid(c1ecea0c0a6701c4a8efb2370907605d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e52b6fcc7303ab8d1ccd5124a28d57f3') in 0.039457 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 8.025435 seconds.
+  path: Assets/Prefabs/GameManagerEV.prefab
+  artifactKey: Guid(c1ecea0c0a6701c4a8efb2370907605d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GameManagerEV.prefab using Guid(c1ecea0c0a6701c4a8efb2370907605d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '233f927d0034a5d50b348800319d3992') in 0.008974 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.513664 seconds.
+  path: Assets/Prefabs/GameManagerEV.prefab
+  artifactKey: Guid(c1ecea0c0a6701c4a8efb2370907605d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GameManagerEV.prefab using Guid(c1ecea0c0a6701c4a8efb2370907605d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea7de499aed3b4169a984e92c04f4612') in 0.009654 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.312498 seconds.
+  path: Assets/Prefabs/GameManagerEV.prefab
+  artifactKey: Guid(c1ecea0c0a6701c4a8efb2370907605d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GameManagerEV.prefab using Guid(c1ecea0c0a6701c4a8efb2370907605d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '908343d0f5bed1404e5d9a37671e77ab') in 0.008834 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004676 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Calvin Yusnoveri\Desktop\SUTD Capstone T2\50.033\50033-game-dev-lab\src\MarioGame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Calvin Yusnoveri\Desktop\SUTD Capstone T2\50.033\50033-game-dev-lab\src\MarioGame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.82 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.177 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.82 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4455 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 179.8 MB.
+System memory in use after: 180.1 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 5587.
+Total: 3.925800 ms (FindLiveObjects: 0.436200 ms CreateObjectMapping: 0.300300 ms MarkObjects: 3.033800 ms  DeleteObjects: 0.154600 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 28.762132 seconds.
+  path: Assets/Prefabs/GameManagerEV.prefab
+  artifactKey: Guid(c1ecea0c0a6701c4a8efb2370907605d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GameManagerEV.prefab using Guid(c1ecea0c0a6701c4a8efb2370907605d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '080bbe8b91f74115ad32209ce97cc88c') in 0.043595 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005697 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Calvin Yusnoveri\Desktop\SUTD Capstone T2\50.033\50033-game-dev-lab\src\MarioGame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Calvin Yusnoveri\Desktop\SUTD Capstone T2\50.033\50033-game-dev-lab\src\MarioGame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.05 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.391 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.82 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4455 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 179.8 MB.
+System memory in use after: 180.1 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 5591.
+Total: 4.164300 ms (FindLiveObjects: 0.609900 ms CreateObjectMapping: 0.247000 ms MarkObjects: 3.168400 ms  DeleteObjects: 0.138000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005837 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Calvin Yusnoveri\Desktop\SUTD Capstone T2\50.033\50033-game-dev-lab\src\MarioGame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Calvin Yusnoveri\Desktop\SUTD Capstone T2\50.033\50033-game-dev-lab\src\MarioGame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.02 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.240 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.84 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4455 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 179.8 MB.
+System memory in use after: 180.1 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 5595.
+Total: 3.808300 ms (FindLiveObjects: 0.429500 ms CreateObjectMapping: 0.318300 ms MarkObjects: 2.910400 ms  DeleteObjects: 0.149100 ms)
+
+========================================================================
+Received Prepare
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 4.27 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 14 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 90.5 MB.
+System memory in use after: 90.8 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 5595.
+Total: 3.973000 ms (FindLiveObjects: 0.475100 ms CreateObjectMapping: 0.266600 ms MarkObjects: 3.080900 ms  DeleteObjects: 0.149600 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file

@@ -5,9 +5,10 @@ using UnityEngine;
 [CreateAssetMenu(fileName =  "GameConstants", menuName =  "ScriptableObjects/GameConstants", order = 1)]
 public class GameConstants : ScriptableObject
 {
-    public int playerSpeed = 30;
-    public int playerMaxSpeed = 60;
-    public int playerJumpSpeed = 25;
+    // Mario basic starting values
+    public int playerStartingMaxSpeed = 40;
+    public int playerMaxJumpSpeed = 60;
+    public int playerDefaultForce = 150;
 
     // for Scoring system
     public int currentScore;
@@ -17,6 +18,7 @@ public class GameConstants : ScriptableObject
     public float maxOffset = 5.0f;
     public float enemyPatroltime = 2.0f;
     public float groundSurface = -4.0f;
+    public float groundDistance = -4.0f;
 
     // for Reset values
     Vector3 gombaSpawnPointStart = new Vector3(2.5f, -0.45f, 0); // hardcoded location

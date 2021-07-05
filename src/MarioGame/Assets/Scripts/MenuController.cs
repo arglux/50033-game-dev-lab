@@ -6,16 +6,17 @@ public class MenuController : MonoBehaviour
 {
     void Awake()
     {
-        Time.timeScale = 0.0f;
+        
     }
     // Start is called before the first frame update
     void Start()
     {
-        
+        Time.timeScale = 0.0f;
     }
 
     public void StartButtonClicked()
     {
+        // Debug.Log("Starting Game!");
         foreach (Transform eachChild in transform)
         {
             if (eachChild.name != "Score" &&

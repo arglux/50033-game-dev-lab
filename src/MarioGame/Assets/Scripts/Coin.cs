@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.Events;
 
 public class Coin : MonoBehaviour
 {
@@ -8,6 +9,7 @@ public class Coin : MonoBehaviour
     private SpriteRenderer coinSprite;
     private AudioSource coinAudio;
     // Start is called before the first frame update
+    public UnityEvent onCoinCollected;
 
     void Start()
     {
@@ -29,7 +31,8 @@ public class Coin : MonoBehaviour
             coinAudio.PlayOneShot(coinAudio.clip);
             coinCollision.enabled = false;
             coinSprite.enabled = false;
-            CentralManager.centralManagerInstance.increaseScore();
+            // CentralManager.centralManagerInstance.increaseScore();
+            onCoinCollected.Invoke();
             Destroy(gameObject, coinAudio.clip.length);
         }
         

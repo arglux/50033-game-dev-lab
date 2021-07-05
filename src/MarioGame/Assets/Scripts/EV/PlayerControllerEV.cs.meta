@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c611aa9035fc5504d910ffd42e61e45d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - marioUpSpeed: {instanceID: 0}
+  - marioMaxSpeed: {instanceID: 0}
+  - gameConstants: {fileID: 11400000, guid: eecdf7d51379743489d2777c4066836e, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -11,8 +11,8 @@ GameObject:
   - component: {fileID: 6878889339559983253}
   - component: {fileID: 3796034364953700877}
   - component: {fileID: 2539098811613810937}
-  - component: {fileID: 7620743966986350987}
   - component: {fileID: -1649746259481760000}
+  - component: {fileID: 8906973140880286957}
   m_Layer: 0
   m_Name: Coin
   m_TagString: Untagged
@@ -112,18 +112,6 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.63707435, y: 0.8851008}
   m_EdgeRadius: 0
---- !u!114 &7620743966986350987
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2365303159725089944}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f0d7497559c55f14a938bb4fc8abc12f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!82 &-1649746259481760000
 AudioSource:
   m_ObjectHideFlags: 0
@@ -220,3 +208,30 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
+--- !u!114 &8906973140880286957
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2365303159725089944}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f0d7497559c55f14a938bb4fc8abc12f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  onCoinCollected:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 11400000, guid: e420ad3c2ab295c4c8583031fa2278ea, type: 2}
+        m_TargetAssemblyTypeName: GameEvent, Assembly-CSharp
+        m_MethodName: Raise
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
